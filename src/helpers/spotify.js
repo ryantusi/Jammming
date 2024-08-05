@@ -191,7 +191,7 @@ export const createPlaylist = async (name, playlist) => {
 
     if (addTracksResponse.ok) {
         alert('Playlist created and tracks added successfully!');
-        window.location.href = "http://localhost:3000/"; 
+        window.location.href = "https://jammming-rt.netlify.app/"; 
     } else {
         alert('There was an error adding tracks to the playlist.');
     }
