@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  font-family: 'Danfo', serif;
+  width: 100%;
+  margin-top: -0.1rem;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1%;
+  color: white;
+  font-size: 35px;
+  height: auto;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.inner-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+

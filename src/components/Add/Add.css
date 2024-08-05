@@ -1,0 +1,59 @@
+.play-form {
+    font-family: "BioRhyme", serif;
+    width: 85%;
+    height: 30%;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 5px solid #9900ff;
+    color: wheat;
+    padding: 1em;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    float: center;
+}
+
+.play-form input[type="text"] {
+    width: 80%;
+    padding: 15px;
+    margin: 10px 0;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    font-size: 16px;
+  }
+  
+.play-form input[type="text"]:focus {
+    border-color: #9900ff;
+    box-shadow: 0 0 10px rgba(0, 180, 216, 0.5);
+  }
+  
+  /* Submit button styling */
+.play-form button[type="submit"] {
+    width: 50%;
+    padding: 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 25px;
+    background-color: #9900ff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+.play-form button[type="submit"]:hover {
+    background-color: #6300a5;
+    box-shadow: 0 0 10px rgba(97, 0, 182, 0.5);
+  }
+  
+.play-form input[type="submit"]:active {
+    transform: scale(0.95);
+  }
+  
+.play-form input[type="submit"]:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(97, 0, 182, 0.5);
+  }
