@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Spotify for their awesome API. 🎧
 - The React community for their support and resources. 🌐
 - Codecademy for their teachings. 💻
-- Ofcourse, Myself :) - [Ryan Tus](https://www.linkedin.com/in/ryantusi/)
+- Ofcourse, Myself :) - [Ryan Tusi](https://www.linkedin.com/in/ryantusi/)
 
 Hope you nnjoy coding **Jammming**! 🎶 Make sure to create a pull request if you have better ideas.
 
