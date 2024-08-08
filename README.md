@@ -33,7 +33,7 @@ This folder contains the `spotify.js` file which handles the Spotify API calls t
 ## 🚀 Getting Started
 
 1. Clone the repository:
-    ```
+    ```sh
     git clone https://github.com/ryantusi/Jammming.git
     ```
 2. Navigate to the project directory:
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Codecademy for their teachings. 💻
 - Ofcourse, Myself :) - [Ryan Tusi](https://www.linkedin.com/in/ryantusi/)
 
-Hope you nnjoy coding **Jammming**! 🎶 Make sure to create a pull request if you have better ideas.
+Hope you enjoy coding **Jammming**! 🎶 Make sure to create a pull request if you have better ideas.
 
 ---
 
